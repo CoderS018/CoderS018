@@ -15,7 +15,8 @@ Project	Description
 Languages & ML Show Image Show Image Show Image
 
 IoT & Hardware [Show Image Show Image](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-)
+) [Show Image Show Image](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+[Show Image Show Image](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 Content & Creative Tools Show Image Show Image Show Image
 
