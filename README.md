@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 CS student specializing in **AI/ML** at **Sapthagiri NPS University**, Bengaluru
-- 🔭 Currently working through coursework in **FLAT, AI/ML, DMS, IoT, CNS, Machine Learning & Web Tech ,etc**
+- 🔭 Currently working through coursework in **FLAT, AI/ML, DMS, IoT, CNS, Machine Learning & Web Tech, etc**
 - 🌱 Exploring IoT + embedded systems, applied ML, and AI-driven content workflows
 - 📍 Based in Bengaluru, India
 
