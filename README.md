@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vivek 👋</h1>
-<h3 align="center">CS Student • AI/ML Enthusiast • Content Creator @SkullRoams</h3>
+<h3 align="center">CS Student • AI/ML Enthusiast 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+with+AI%2FML;IoT+Tinkerer;Making+content+%40SkullRoams;Bengaluru%2C+India" alt="Typing SVG" />
@@ -12,7 +12,6 @@
 - 🎓 CS student specializing in **AI/ML** at **Sapthagiri NPS University**, Bengaluru
 - 🔭 Currently working through coursework in **FLAT, AI/ML, DMS, IoT, CNS, Machine Learning & Web Tech**
 - 🌱 Exploring IoT + embedded systems, applied ML, and AI-driven content workflows
-- 🎬 Building a content creation presence under **[@SkullRoams](https://instagram.com/SkullRoams)** — AI-animated shorts, voiceover, and editing
 - 📍 Based in Bengaluru, India
 
 ---
@@ -45,7 +44,6 @@
 
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square)
-![Hailuo AI](https://img.shields.io/badge/-Hailuo_AI-000000?style=flat-square)
 
 **Security**
 
