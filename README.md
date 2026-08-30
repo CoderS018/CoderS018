@@ -14,7 +14,8 @@ Project	Description
 
 Languages & ML Show Image Show Image Show Image
 
-IoT & Hardware Show Image Show Image
+IoT & Hardware [Show Image Show Image](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+)
 
 Content & Creative Tools Show Image Show Image Show Image
 
