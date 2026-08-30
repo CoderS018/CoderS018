@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Vivek 👋</h1> <h3 align="center">CS Student • AI/ML Enthusiast </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+with+AI%2FML;IoT+Tinkerer;Making+content+%40SkullRoams;Bengaluru%2C+India" alt="Typing SVG" /> </p>
+<h1 align="center">Hey, I'm Vivek 👋</h1> <h3 align="center">CS Student • AI/ML Enthusiast </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+with+AI%2FML;IoT+Tinkerer;Bengaluru%2C+India" alt="Typing SVG" /> </p>
 🧠 About Me
 🎓 CS student specializing in AI/ML at Sapthagiri NPS University, Bengaluru
 🔭 Currently working through coursework in FLAT, AI/ML, DMS, IoT, CNS, Machine Learning & Web Tech
