@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vivek 👋</h1>
-<h3 align="center">CS Student • AI/ML Enthusiast 
+<h3 align="center">CS Student • AI/ML Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+with+AI%2FML;IoT+Tinkerer;Making+content+%40SkullRoams;Bengaluru%2C+India" alt="Typing SVG" />
@@ -32,13 +32,15 @@
 **Languages & ML**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **IoT & Hardware**
 
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 **Content & Creative Tools**
 
