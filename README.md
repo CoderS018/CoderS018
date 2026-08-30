@@ -3,7 +3,6 @@
 🎓 CS student specializing in AI/ML at Sapthagiri NPS University, Bengaluru
 🔭 Currently working through coursework in FLAT, AI/ML, DMS, IoT, CNS, Machine Learning & Web Tech
 🌱 Exploring IoT + embedded systems, applied ML, and AI-driven content workflows
-🎬 Building a content creation presence under @SkullRoams — AI-animated shorts, voiceover, and editing
 📍 Based in Bengaluru, India
 🚀 Featured Projects
 Project	Description
