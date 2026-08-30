@@ -12,16 +12,6 @@ Project	Description
 🧠 Team NeuralForge	Built at the Google / Hack2Skill hackathon
 🛠️ Tech Stack
 
-Languages & ML Show Image Show Image Show Image
-
-IoT & Hardware [Show Image Show Image](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-) [Show Image Show Image](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-[Show Image Show Image](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-Content & Creative Tools Show Image Show Image Show Image
-
-Security Show Image
-
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=CoderS018&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
  </p> <p align="center"><i>⭐️ Thanks for stopping by — always building something new.</i></p>
