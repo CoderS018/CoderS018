@@ -45,7 +45,9 @@
 **Content & Creative Tools**
 
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square)
+
 
 **Security**
 
