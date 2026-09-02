@@ -23,6 +23,7 @@
 | 🌱 **AgroIntel AI** | Soil analyzer combining Random Forest + Gemini for smart agriculture |
 | 🩺 **Health Risk Assessment Tool** | Web Technology mini-project for evaluating health risk factors |
 | 🧠 **Team NeuralForge** | Built at the Google / Hack2Skill hackathon |
+| 🤖 **Swarm Robotics System** | 3-bot leader-follower swarm — one leader bot, two follower bots replicating its movement |
 
 ---
 
